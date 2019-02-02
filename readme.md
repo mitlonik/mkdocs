@@ -44,4 +44,9 @@ docs/
 
 
 3.
-
+Building the site
+That's looking good. You're ready to deploy the first pass of your MkLorum documentation. First build the documentation:
+``` bash 
+mkdocs build
+```
+This will create a new directory, named site. Take a look inside the directory:
